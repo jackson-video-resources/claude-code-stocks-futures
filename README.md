@@ -136,7 +136,7 @@ All Claude Code prompts used in the course are in the [`prompts/`](./prompts/) f
 | alpaca-py Python SDK | https://github.com/alpacahq/alpaca-py |
 | Claude Code | https://claude.ai/code |
 | PM2 | https://pm2.keymetrics.io |
-| Railway | https://railway.app |
+| Hostinger VPS (24/7 cloud hosting, from ~$5/mo) | https://hostinger.com/lewisjackson10 |
 | Apify (YouTube transcripts) | https://apify.com |
 | SEC EDGAR (hedge fund decks) | https://www.sec.gov/cgi-bin/browse-edgar |
 | yfinance | https://github.com/ranaroussi/yfinance |
